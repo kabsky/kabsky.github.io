@@ -2,103 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on zsky&#39;s home</title>
-    <link>http://localhost:1313/post/</link>
+    <link>http://kabsky.github.io/post/</link>
     <description>Recent content in Posts on zsky&#39;s home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 28 Aug 2015 17:39:03 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>灰</title>
-      <link>http://localhost:1313/blog/2015/08/28/%E7%81%B0/</link>
-      <pubDate>Fri, 28 Aug 2015 17:39:03 +0800</pubDate>
-      
-      <guid>http://localhost:1313/blog/2015/08/28/%E7%81%B0/</guid>
-      <description>&lt;p&gt;这是测试这事测试&lt;/p&gt;
-
-&lt;p&gt;这是测试这事测试&lt;/p&gt;
-
-&lt;p&gt;这是测试这事测试&lt;/p&gt;
-
-&lt;p&gt;这是测试这事测试&lt;/p&gt;
-
-&lt;p&gt;这是测试这事测试&lt;/p&gt;
-
-&lt;p&gt;这是测试这事测试&lt;/p&gt;
-
-&lt;p&gt;这是测试这事测试&lt;/p&gt;
-
-&lt;p&gt;这是测试这事测试&lt;/p&gt;
-
-&lt;p&gt;这是测试这事测试&lt;/p&gt;
-
-&lt;p&gt;这是测试这事测试&lt;/p&gt;
-
-&lt;p&gt;这是测试这事测试&lt;/p&gt;
-
-&lt;p&gt;这是测试这事测试&lt;/p&gt;
-
-&lt;p&gt;这是测试这事测试&lt;/p&gt;
-
-&lt;p&gt;这是测试这事测试&lt;/p&gt;
-
-&lt;p&gt;这是测试这事测试&lt;/p&gt;
-
-&lt;p&gt;这是测试这事测试&lt;/p&gt;
-
-&lt;p&gt;这是测试这事测试&lt;/p&gt;
-
-&lt;p&gt;这是测试这事测试&lt;/p&gt;
-
-&lt;p&gt;这是测试这事测试&lt;/p&gt;
-
-&lt;p&gt;这是测试这事测试&lt;/p&gt;
-
-&lt;p&gt;这是测试这事测试&lt;/p&gt;
-
-&lt;p&gt;这是测试这事测试&lt;/p&gt;
-
-&lt;p&gt;这是测试这事测试&lt;/p&gt;
-
-&lt;p&gt;这是测试这事测试&lt;/p&gt;
-
-&lt;p&gt;这是测试这事测试&lt;/p&gt;
-
-&lt;p&gt;这是测试这事测试&lt;/p&gt;
-
-&lt;p&gt;这是测试这事测试&lt;/p&gt;
-
-&lt;p&gt;这是测试这事测试&lt;/p&gt;
-
-&lt;p&gt;这是测试这事测试&lt;/p&gt;
-
-&lt;p&gt;这是测试这事测试&lt;/p&gt;
-
-&lt;p&gt;这是测试这事测试&lt;/p&gt;
-
-&lt;p&gt;这是测试这事测试&lt;/p&gt;
-
-&lt;p&gt;这是测试这事测试&lt;/p&gt;
-
-&lt;p&gt;这是测试这事测试&lt;/p&gt;
-
-&lt;p&gt;这是测试这事测试&lt;/p&gt;
-
-&lt;p&gt;这是测试这事测试&lt;/p&gt;
-
-&lt;p&gt;这是测试这事测试&lt;/p&gt;
-
-&lt;p&gt;这是测试这事测试&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Fri, 28 Aug 2015 17:38:36 +0800</lastBuildDate>
+    <atom:link href="http://kabsky.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>今天怎么不开心</title>
-      <link>http://localhost:1313/blog/2015/08/28/%E4%BB%8A%E5%A4%A9%E6%80%8E%E4%B9%88%E4%B8%8D%E5%BC%80%E5%BF%83/</link>
+      <link>http://kabsky.github.io/blog/2015/08/28/%E4%BB%8A%E5%A4%A9%E6%80%8E%E4%B9%88%E4%B8%8D%E5%BC%80%E5%BF%83/</link>
       <pubDate>Fri, 28 Aug 2015 17:38:36 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/2015/08/28/%E4%BB%8A%E5%A4%A9%E6%80%8E%E4%B9%88%E4%B8%8D%E5%BC%80%E5%BF%83/</guid>
+      <guid>http://kabsky.github.io/blog/2015/08/28/%E4%BB%8A%E5%A4%A9%E6%80%8E%E4%B9%88%E4%B8%8D%E5%BC%80%E5%BF%83/</guid>
       <description>
 
 &lt;p&gt;静态网站生成器从字面上来理解，就是将你的内容生成静态网站。所谓“静态”的含义其实反映在网站页面的生成的时间。一般的web服务器（WordPress, Ghost, Drupal等等）在收到页面请求时，需要调用数据库生成页面（也就是HTML代码），再返回给用户请求。而静态网站则不需要在收到请求后生成页面，而是在整个网站建立起之前就将所有的页面全部生成完成，页面一经生成便称为静态文件，访问时直接返回现成的静态页面，不需要数据库的参与。&lt;/p&gt;
@@ -201,7 +117,7 @@ title = &amp;ldquo;about&amp;rdquo;&lt;/p&gt;
 
 &lt;p&gt;&lt;header id=&#34;header&#34;&gt;
     &lt;figure&gt;
-      &lt;a href=&#34;http://localhost:1313/&#34; border=0 id=&#34;logolink&#34;&gt;&lt;div class=&#34;icon-spf13-3&#34; id=&#34;logo&#34;&gt; &lt;/div&gt;&lt;/a&gt;
+      &lt;a href=&#34;http://kabsky.github.io/&#34; border=0 id=&#34;logolink&#34;&gt;&lt;div class=&#34;icon-spf13-3&#34; id=&#34;logo&#34;&gt; &lt;/div&gt;&lt;/a&gt;
     &lt;/figure&gt;
     &lt;div id=&#34;byline&#34;&gt;by Steve Francia&lt;/div&gt;
     &lt;nav id=&#34;nav&#34;&gt;
